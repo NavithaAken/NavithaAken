@@ -42,4 +42,4 @@
 
 ```plaintext
 Responsive Web Design • UI/UX Principles • Cross-browser Compatibility
-React Components • Figma to Code • RESTful APIs • Clean Code
+React Components • Figma to Code • RESTful APIs • Clean Code • HTML UI 's
