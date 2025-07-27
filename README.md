@@ -31,9 +31,7 @@
 
 ### 📜 Certificates
 
-- ✅ [HackerRank JavaScript (Basic)](https://www.hackerrank.com/certificates/iframe/8ae451bf9144)
-
-> _Note: Replace `your-certificate-id-here` with the actual certificate ID or link if available._
+<p> <a href="https://www.hackerrank.com/certificates/8ae451bf9144" target="_blank"> <img src="https://cdn.hackerrank.com/certificates/8ae451bf9144" alt="HackerRank JavaScript (Basic) Certificate" width="600"/> </a> </p>
 
 ---
 
