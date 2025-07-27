@@ -29,12 +29,6 @@
 
 ---
 
-### 📜 Certificates
-
-<p> <a href="https://www.hackerrank.com/certificates/8ae451bf9144" target="_blank"> <img src="https://cdn.hackerrank.com/certificates/8ae451bf9144" alt="HackerRank JavaScript (Basic) Certificate" width="600"/> </a> </p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navithaaken&show_icons=true&theme=radical" alt="navithaaken stats" />
