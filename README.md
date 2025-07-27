@@ -29,6 +29,14 @@
 
 ---
 
+### 📜 Certificates
+
+- ✅ [HackerRank JavaScript (Basic)]((https://www.hackerrank.com/certificates/8ae451bf9144))
+
+> _Note: Replace `your-certificate-id-here` with the actual certificate ID or link if available._
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=navithaaken&show_icons=true&theme=radical" alt="navithaaken stats" />
@@ -42,4 +50,4 @@
 
 ```plaintext
 Responsive Web Design • UI/UX Principles • Cross-browser Compatibility
-React Components • Figma to Code • RESTful APIs • Clean Code • HTML UI 's
+React Components • Figma to Code • RESTful APIs • Clean Code • HTML UIs
