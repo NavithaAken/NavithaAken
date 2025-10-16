@@ -32,29 +32,6 @@
 
 ---
 
-## ✨ Featured Projects
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/navithaaken/project1-preview.gif" width="300" alt="Project 1"/><br/>
-      <b>🎨 Interactive Portfolio</b><br/>
-      A sleek, animated portfolio website built with React and Tailwind CSS.
-      <br/>
-      <a href="https://github.com/navithaaken/portfolio" target="_blank">🔗 View Code</a>
-    </td>
-    <td align="center">
-      <img src="https://github.com/navithaaken/project2-preview.gif" width="300" alt="Project 2"/><br/>
-      <b>💬 Chat App</b><br/>
-      Real-time chat application using Node.js, Socket.io, and MongoDB.
-      <br/>
-      <a href="https://github.com/navithaaken/chatapp" target="_blank">🔗 View Code</a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🧠 Top Skills
 
 ```plaintext
