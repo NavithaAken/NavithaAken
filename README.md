@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+👋%2C+I'm+Navitha+Aken!;A+Passionate+Frontend+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=480&lines=Hi+there+👋%2C+I'm+Navitha+Aken!;A+Passionate+Frontend+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">✨ Bringing ideas to life with code ✨</h3>
+<h3 align="center" style="color:#00FF99; text-shadow:0 0 10px #00FF99, 0 0 20px #00FF99;">✨ Bringing ideas to life with code ✨</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
