@@ -1,39 +1,70 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=480&lines=Hi+there+👋%2C+I'm+Navitha+Aken!;A+Passionate+Frontend+Developer;Crafting+Beautiful+Web+Experiences" alt="Typing SVG" />
-</h1>
-
-<h3 align="center" style="color:#00FF99; text-shadow:0 0 10px #00FF99, 0 0 20px #00FF99;">✨ Bringing ideas to life with code ✨</h3>
+<h1 align="center">Navitha Aken</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif" />
+  ⚡ Frontend Developer | UI Craftsman ⚡  
+</p>
+
+<p align="center">
+  From Sri Lanka 🇱🇰 — Crafting elegant web experiences through code
 </p>
 
 ---
 
-## 🌟 About Me
+## 🧑‍🚀 About Me
 
-- 🔭 I’m currently working on **interactive and responsive frontend projects**
-- 🌱 I’m exploring **modern UI/UX trends & advanced JavaScript frameworks**
-- 💬 Ask me about **HTML, CSS, JavaScript, React, and Web Animations**
-- 🎨 Fun fact: I love blending **design and code** to build pixel-perfect interfaces.
-- 🎯 Goal: To become a **Full-Stack Web Developer** in the near future!
+🎨 Passionate Frontend Developer focused on building clean, responsive, and user-friendly interfaces.  
+🚀 I love transforming ideas and designs into smooth, interactive web experiences.  
+🌱 Currently expanding my skills toward becoming a Full-Stack Developer.
 
 ---
 
-## 🛠️ Languages & Tools
+## ⚙️ Tech Arsenal
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,vscode,figma,git,github" />
-
-  <br/><br/>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Stack&align=center&fontSize=18&theme=radical&lineHeight=25&lineCount=3&width=600&line1=HTML,HTML5,E34F26;CSS,CSS3,1572B6;JS,JavaScript,F7DF1E;&line2=React,ReactJS,61DAFB;Tailwind,TailwindCSS,38B2AC;Bootstrap,Bootstrap,563D7C;&line3=VSCode,Visual%20Studio%20Code,007ACC;Figma,Figma,F24E1E;Git,Git,F05032" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,figma,git,github,vscode" />
+</p>
 
 ---
 
-## 🧠 Top Skills
+## 🔗 Connect with Me
 
-```plaintext
-Responsive Web Design • UI/UX Principles • Cross-browser Compatibility
-React Components • RESTful APIs • Figma to Code • Clean Code • Web Animations
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://instagram.com/YOUR_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://facebook.com/YOUR_LINK" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
+  </a>
+</p>
+
+---
+
+## ☕ Fuel My Journey
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YOUR_LINK">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
+  </a>
+</p>
+
+---
+
+## 📬 Contact
+
+<p align="center">
+  📧 <b>navithaaken@gmail.com</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NavithaAken&label=Profile%20Views&color=0aff99&style=flat" />
+</p>
+
+<p align="center">✨ Built with passion and pixels ✨</p>
